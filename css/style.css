@@ -103,10 +103,12 @@
   background-color: #F3F7EB;
 }
 .sectionPassage4 .warp {
-  background-color: #EDE36E;
+  background-color: #F3F7EB;
+  /*background-color: #EDE36E;*/
 }
 .sectionPassage5 .warp {
-  background-color: #7EADE9;
+  background-color: #F3F7EB;
+  /*background-color: #7EADE9;*/
 }
 .wordSec .warp {
   width: 80%;
@@ -131,7 +133,7 @@
   height: 30em;
   margin: 0 auto;
   padding: 4%;
-  background-color: #F0F0F0;
+  background-color: #F3F7EB;
 }
 .sectionPoems .editor {
   font-size: 0.8em;
