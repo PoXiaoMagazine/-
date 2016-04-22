@@ -1,0 +1,311 @@
+.homepage {
+  background-image: url(../images/1_MainBg.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.homepage img {
+  position: absolute;
+}
+
+.homepage .LeftTop {
+  left: 15px;
+  top: 30px;
+}
+.homepage .WinterMag {
+  right: 10px;
+  top: 40%;
+}
+.homepage .Logo {
+  left: 10px;
+  bottom: 10px;
+}
+.index {
+  background-color: rgb(206, 172, 127);
+  color: white;
+}
+.index .warp {
+  padding: 1em;
+}
+.index h1 {
+  font-size: 1.8em;
+  margin-bottom: 0.5em;
+}
+.index h2 {
+  font-size: 1.6em;
+}
+.index h3 {
+  margin-top: 0.5em;
+  margin-bottom: 0.6em;
+  font-size: 1.4em;
+}
+.index li {
+  margin-bottom: 0.4em;
+}
+.index ul {
+  border-bottom: 1px solid #DDD;
+  margin-bottom: 0.4em;
+}
+.index .editors h3 {
+  margin-top: 2em;
+}
+.editors {
+  width: 40%;
+  float: left;
+}
+.editors ul {
+  border-bottom: none;
+}
+
+.passages {
+  background-image: url(../images/2-1_MainBg.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.passages h2 {
+  margin: 0 auto;
+  text-align: center;
+}
+.sectionPassage1 .warp {
+  background-color: #F2EDD3;
+}
+.sectionPassage1 .pic1 {
+  background-image: url(../images/2-3-index.png);
+}
+.sectionPassage1 .pic2 {
+  height: 20em;
+  background-image: url(../images/2-4-pic.png);
+}
+.sectionPassage1 .pic3 {
+  background-image: url(../images/2-5-pic.png);
+}
+.passages img {
+  width: 80%;
+  display: block;
+  margin: 0 auto;
+}
+.passages h2 {
+  margin: 40px;
+  font-size: 4em;
+}
+.sectionPassage1 img {
+  width: 90%;
+  display: block;
+  margin: 0 auto;
+}
+.sectionPassage2 img {
+  width: 90%;
+  display: block;
+  margin: 0 auto;
+}
+.sectionPassage3 .warp {
+  background-color: #F3F7EB;
+}
+.sectionPassage4 .warp {
+  background-color: #F3F7EB;
+  /*background-color: #EDE36E;*/
+}
+.sectionPassage5 .warp {
+  background-color: #F3F7EB;
+  /*background-color: #7EADE9;*/
+}
+.wordSec .warp {
+  width: 80%;
+  height: 33em;
+  margin: 0 auto;
+  padding: 4%;
+}
+.wordSec img {
+  width: 90%;
+  display: block;
+  margin: 1em auto;
+}
+.wordSec p {
+  text-indent: 2em;
+  word-spacing: 0.5em;
+  line-height: 1.5em;
+  display: block;
+  margin: 1em auto;
+}
+.sectionPoems .warp {
+  width: 80%;
+  height: 30em;
+  margin: 0 auto;
+  padding: 4%;
+  background-color: #F3F7EB;
+}
+.sectionPoems .editor {
+  font-size: 0.8em;
+  margin-top: 1em;
+  margin-bottom: 2em;
+  margin-left: 1em;
+}
+
+.poem {
+  padding: 0.5em;
+  margin: 0.8em;
+  border-bottom: 1px solid #999;
+}
+.poem h3 {
+  font-size: 1.2em;
+}
+.poem h4 {
+  margin-top: 0.5em;
+  font-size: 0.7em;
+}
+.poem p {
+  word-spacing: 0.5em;
+  margin-top: 0.7em;
+}
+.picContainer {
+  width: 90%;
+  height: 33em;
+  margin: 0 auto;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+.sectionCamera .title {
+  background-image: url(../images/4-3-title.png);
+}
+.sectionCamera .pic {
+  background-image: url(../images/4-3-pic.png);
+}
+.sectionPic1 .slide{
+  background-color: #AEAFA3;
+}
+.sectionPic2 .slide{
+  background-color: #BDD7E7;
+}
+.sectionPic1 .title {
+  background-image: url(../images/4-2-1-title.png);
+}
+.sectionPic1 .pic1 {
+  background-image: url(../images/4-2-pic1.png);
+}
+.sectionPic1 .pic2 {
+  background-image: url(../images/4-4-pic1.png);
+}
+.sectionPic1 .pic3 {
+  background-image: url(../images/4-4-pic2.png);
+}
+.sectionPic2 .title {
+  background-image: url(../images/4-6-title.png);
+}
+.sectionPic2 .pic {
+  background-image: url(../images/4-6-pic1.png);
+}
+.sectionPic3 .title {
+  background-image: url(../images/5-1-t1.png);
+}
+.sectionPic3 .pic {
+  background-image: url(../images/5-1-t2.png);
+}
+
+.dreams {
+  background-color: #F6E9E3;
+}
+.dream {
+  margin: 0.8em;
+  padding: 1em;
+  background-color: #FEFCF8;
+}
+.tucaos {
+  background-color: #F1F8F0;
+}
+.tucao {
+  margin: 0.8em;
+  padding: 1em;
+  background-color: #FEFCFF;
+}
+.titleInD {
+  margin: 2em;
+  font-size: 1.2em;
+}
+.titleInD {
+  font-size: 1.3em;
+}
+.dream .name {
+  margin-bottom: 0.3em;
+}
+.dream .content {
+  line-height: 1.2em;
+}
+.sectionPen .title {
+  background-image: url(../images/6-1-bg.png);
+}
+.sectionPen .pic {
+  background-image: url(../images/6-2-pic.png);
+}
+.finalNovel .title {
+  background-image: url(../images/7-tr.png);
+  height: 20em;
+}
+.finalNovel .black {
+  background-image: url(../images/7-bg1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.finalNovel .white {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-image: url(../images/7-bg2.png);
+}
+.finalNovel .word {
+  width: 15em;
+  padding: 1em;
+  background-color: #000;
+  color: #FFF;
+  margin: 0 auto;
+}
+.finalNovel .pic1 {
+  background-image: url(../images/7-pic1.png);
+}
+.finalNovel .pic2 {
+  background-image: url(../images/7-pic2.png);
+  height: 5em;
+}
+.finalNovel .pic3 {
+  background-image: url(../images/7-pic3.png);
+}
+.finalNovel .pic4 {
+  background-image: url(../images/7-pic4.png);
+}
+.finalNovel .pic5 {
+  background-image: url(../images/7-pic5.png);
+}
+.finalNovel .pic6 {
+  background-image: url(../images/7-pic4.png);
+}
+.finalNovel .pic7 {
+  background-image: url(../images/7-pic7.png);
+  height: 20em;
+}
+
+.final {
+  background-image: url(../images/final-bg.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.finallb {
+  width: 30%;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+.finalmb {
+  width: 30%;
+  display: block;
+  margin: 90% auto 0 auto;
+}
+.finalqr {
+  width: 30%;
+  position: absolute;
+  right: 20px;
+  bottom: 20px;
+}
+
